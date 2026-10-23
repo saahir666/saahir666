@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saahir666
 - 👀 I’m interested in cyber security and DevOps
 - 🌱 I’m currently learning OSCP
-- 💞️ I’m looking to collaborate on Pentesting Intern Projects
+- 💞️ I’m looking to collaborate on Pentesting Projects
 - 📫 How to reach me? Just ping me on Linkedin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Tech Guy 
